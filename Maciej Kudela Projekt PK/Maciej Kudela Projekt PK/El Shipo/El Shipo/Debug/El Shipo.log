@@ -1,0 +1,14 @@
+﻿  dodawanie-statku.c
+C:\Users\Maćku\Desktop\Projekt PK (Semestr 2)\Maciej Kudela Projekt PK\Maciej Kudela Projekt PK\El Shipo\El Shipo\dodawanie-statku.c(12,23): warning C4013: niezdefiniowany "wyswietl_plansze_make"; przy założeniu, że extern zwraca int
+C:\Users\Maćku\Desktop\Projekt PK (Semestr 2)\Maciej Kudela Projekt PK\Maciej Kudela Projekt PK\El Shipo\El Shipo\dodawanie-statku.c(11,17): warning C4101: "pHead": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Maćku\Desktop\Projekt PK (Semestr 2)\Maciej Kudela Projekt PK\Maciej Kudela Projekt PK\El Shipo\El Shipo\dodawanie-statku.c(36,35): warning C4013: niezdefiniowany "pobierz_kolumne_clean"; przy założeniu, że extern zwraca int
+C:\Users\Maćku\Desktop\Projekt PK (Semestr 2)\Maciej Kudela Projekt PK\Maciej Kudela Projekt PK\El Shipo\El Shipo\dodawanie-statku.c(37,33): warning C4013: niezdefiniowany "pobierz_wiersz_check"; przy założeniu, że extern zwraca int
+C:\Users\Maćku\Desktop\Projekt PK (Semestr 2)\Maciej Kudela Projekt PK\Maciej Kudela Projekt PK\El Shipo\El Shipo\dodawanie-statku.c(44,35): warning C4013: niezdefiniowany "pobierz_wiersz_pionowy"; przy założeniu, że extern zwraca int
+C:\Users\Maćku\Desktop\Projekt PK (Semestr 2)\Maciej Kudela Projekt PK\Maciej Kudela Projekt PK\El Shipo\El Shipo\dodawanie-statku.c(60,28): warning C4013: niezdefiniowany "umiesc_martwe_pole_pionowe"; przy założeniu, że extern zwraca int
+C:\Users\Maćku\Desktop\Projekt PK (Semestr 2)\Maciej Kudela Projekt PK\Maciej Kudela Projekt PK\El Shipo\El Shipo\dodawanie-statku.c(74,33): warning C4013: niezdefiniowany "pobierz_wiersz_clean"; przy założeniu, że extern zwraca int
+C:\Users\Maćku\Desktop\Projekt PK (Semestr 2)\Maciej Kudela Projekt PK\Maciej Kudela Projekt PK\El Shipo\El Shipo\dodawanie-statku.c(75,35): warning C4013: niezdefiniowany "pobierz_kolumne_check"; przy założeniu, że extern zwraca int
+C:\Users\Maćku\Desktop\Projekt PK (Semestr 2)\Maciej Kudela Projekt PK\Maciej Kudela Projekt PK\El Shipo\El Shipo\dodawanie-statku.c(82,37): warning C4013: niezdefiniowany "pobierz_kolumne_poziomy"; przy założeniu, że extern zwraca int
+C:\Users\Maćku\Desktop\Projekt PK (Semestr 2)\Maciej Kudela Projekt PK\Maciej Kudela Projekt PK\El Shipo\El Shipo\dodawanie-statku.c(98,28): warning C4013: niezdefiniowany "umiesc_martwe_pole_poziome"; przy założeniu, że extern zwraca int
+  main.c
+  Generowanie kodu...
+  El Shipo.vcxproj -> C:\Users\Maćku\Desktop\Projekt PK (Semestr 2)\Maciej Kudela Projekt PK\Maciej Kudela Projekt PK\El Shipo\Debug\El Shipo.exe
